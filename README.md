@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/davserv/d-framework/cdn/favicon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
-# D-framework CDN
+# D-FRAMEWORK CDN
 
 D-framework é um CDN de código para executar Sites, aplicativos, Editor...
 
