@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/cloudgoogle.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+<img src="https://raw.githubusercontent.com/davserv/d-framework/cdn/favicon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
 # D-framework CDN
 
 D-framework é um CDN de código para executar Sites, aplicativos, Editor...
 
-Esencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
+Essencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
 
 ----------
 
