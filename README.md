@@ -67,13 +67,12 @@ Cdn Color-modes.js
 
 <br />
 
-<a href="https://github.com/davserv/d-framework/" align="right" alt="Visitor count">
+<a href="https://emarkdown.pages.dev/?url=raw.githubusercontent.com%2Fdavserv%2Fd-framework%2Fcdn%2FREADME.md" align="right" alt="Visitor count">
 <img height="30" src="https://profile-counter.glitch.me/davserv/count.svg" /></a>
 
 <br />
 
 
-[website]: https://davidsonbpe.github.io/
 [twitter]: https://twitter.com/davidsonbpe
 [youtube]: https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/
 [instagram]: https://www.instagram.com/davidsonbpe/
