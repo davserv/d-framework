@@ -44,6 +44,16 @@ Cdn Color-modes.js
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@gh-pages/1.0.1/dxconfont/font.css" />
 ```
 
+# Font Awesome Free 6.4.0
+
+```bash
+<link rel="stylesheet" href="https://fontawesomes.pages.dev/css/all.min.css" />
+```
+
+```bash
+<script src="https://fontawesomes.pages.dev/js/all.min.js"></script>
+```
+
 # Pace
 
 ```bash
