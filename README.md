@@ -1,64 +1,43 @@
-<img src="https://raw.githubusercontent.com/davserv/d-framework/cdn/favicon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+<img src="https://emarkdown.pages.dev/d-framework/icon/512/favicon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="logo">
 
-# D-FRAMEWORK CDN
+# EMARKDOWN | CONVERTER MARKDOWN README EM HTML
 
-D-framework é um CDN de código para executar Sites, aplicativos, Editor...
+ESTA APP CONTÉM O CÓDIGO PARA EXECUTAR UM APLICATIVO EM CONVERTER MARKDOWN README EM HTML [Markdown][emarkdown.pages.dev]
 
-Essencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
+[emarkdown.pages.dev]: https://emarkdown.pages.dev
 
+PARA CONVERTER MARKDOWN README EM HTML , SIMPLESMENTE...
 ----------
 
-# Bootstrap v5.3.3
+ABRA O SERV [emarkdown.pages.dev][emarkdown.pages.dev]
+----------
 
-Cdn Bootstrap.min.css
+[![CONVERTER MARKDOWN](https://raw.githubusercontent.com/davserv/d-framework/markdown/img.jpg)](https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md)
+
+[COMO USAR.URL](#UsarURL)
+----------
+
+
+ABRA README DO REPOSITORIO...
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/css/bootstrap.min.css" />
+https://cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
+
 ```
 
-Cdn Bootstrap.bundle.min.js
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/bootstrap.bundle.min.js"></script>
-```
-
-Cdn Color-modes.js
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/color-modes.js"></script>
-```
---------
-
-# Bootstrap Icons
+EDITA NOME README
 
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/font/bootstrap-icons.min.css" />
+cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
+
 ```
 
-# Dxconfont
-
+URL ABAIXO...
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@gh-pages/1.0.1/dxconfont/font.css" />
+https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
+
 ```
 
-# Font Awesome Free 5.5.0
-
-```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@gh-pages/1.0.1/dxconfont/font.css" />
-```
-
-# Font Awesome Free 6.4.0
-
-```bash
-<link rel="stylesheet" href="https://fontawesomes.pages.dev/css/all.min.css" />
-```
-
-```bash
-<script src="https://fontawesomes.pages.dev/js/all.min.js"></script>
-```
-
-# Pace
-
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/pace.min.js"></script>
-```
+1. ACESSE O APLICATIVO EM EXECUÇÃO EM UM NAVEGADOR EM <https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md>
 --------
 
 <br />
@@ -77,7 +56,7 @@ Cdn Color-modes.js
 
 <br />
 
-<a href="https://emarkdown.pages.dev/?url=raw.githubusercontent.com%2Fdavserv%2Fd-framework%2Fcdn%2FREADME.md" align="right" alt="Visitor count">
+<a href="https://dav7.pages.dev/" align="right" alt="Visitor count">
 <img height="30" src="https://profile-counter.glitch.me/davserv/count.svg" /></a>
 
 <br />
