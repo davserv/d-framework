@@ -12,7 +12,7 @@ PARA CONVERTER MARKDOWN README EM HTML , SIMPLESMENTE...
 ABRA O SERV [emarkdown.pages.dev][emarkdown.pages.dev]
 ----------
 
-[![CONVERTER MARKDOWN](https://raw.githubusercontent.com/davserv/d-framework/markdown/img.jpg)](https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md)
+[![CONVERTER MARKDOWN](https://raw.githubusercontent.com/davserv/d-framework/markdown/img.jpg)](https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md)
 
 [COMO USAR.URL](#UsarURL)
 ----------
@@ -20,24 +20,24 @@ ABRA O SERV [emarkdown.pages.dev][emarkdown.pages.dev]
 
 ABRA README DO REPOSITORIO...
 ```bash
-https://raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
+https://cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
 
 ```
 
 EDITA NOME README
 
 ```bash
-raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
+cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
 
 ```
 
 URL ABAIXO...
 ```bash
-https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
+https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md
 
 ```
 
-1. ACESSE O APLICATIVO EM EXECUÇÃO EM UM NAVEGADOR EM <https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md>
+1. ACESSE O APLICATIVO EM EXECUÇÃO EM UM NAVEGADOR EM <https://emarkdown.pages.dev/?url=cdn.jsdelivr.net/gh/davserv/d-framework@markdown/README.md>
 --------
 
 <br />
