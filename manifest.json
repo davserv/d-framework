@@ -7,7 +7,7 @@
     "background_color": "#111",
     "display": "standalone",
     "orientation": "any",
-    "start_url": "/?=d-framework",
+    "start_url": "/?Installe=dframework",
     "id": "d-framework",
     "iarc_rating_id": "PU87-FR69-SB36-ALP3-7MT8-NR23-DS44-D573-2024",
     "dir": "auto",
