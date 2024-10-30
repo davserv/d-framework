@@ -1,0 +1,101 @@
+{
+    "name": "D-FRAMEWORK",
+    "short_name": "D-FRAMEWORK",
+    "lang": "pt-BR",
+    "description": "D-FRAMEWORK É UM CDN DE CÓDIGO PARA EXECUTAR SITES, APLICATIVOS, EDITOR! BY DAVIDSONBPE.",
+    "theme_color": "#111",
+    "background_color": "#111",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/?=d-framework",
+    "id": "d-framework",
+    "iarc_rating_id": "PU87-FR69-SB36-ALP3-7MT8-NR23-DS44-D573-2024",
+    "dir": "auto",
+    "display_override": [
+        "window-controls-overlay",
+        "standalone"
+    ],
+    "categories": [
+        "books"
+    ],
+    "icons": [
+        {
+            "src": "./d-framework/icon/144/favicon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./d-framework/icon/36/favicon.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "./d-framework/icon/48/favicon.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./d-framework/icon/72/favicon.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./d-framework/icon/96/favicon.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./d-framework/icon/192/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable monochrome"
+        },
+        {
+            "src": "./d-framework/icon/512/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./d-framework/icon/512/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "platform": "wide"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "DEVELOPER",
+            "url": "/.well-known/?Installe=dev",
+            "icons": [
+                {
+                    "src": "./d-framework/icon/144/favicon.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                }
+            ]
+        }
+    ],
+    "scope_extensions": [
+        {
+            "origin": "*.davserv.github.io/d-framework"
+        }
+    ],
+    "web_apps": [
+        {
+            "web_app_identity": "https://davserv.github.io/d-framework/"
+        }
+    ],
+    "prefer_related_applications": true,
+    "protocol_handlers": [
+        {
+            "protocol": "web+jngl",
+            "url": "lookup?type=%s"
+        },
+        {
+            "protocol": "web+jnglstore",
+            "url": "shop?for=%s"
+        }
+    ]
+}
