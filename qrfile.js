@@ -86,7 +86,7 @@
 /*!**************************!*\
   !*** ./example/index.js ***!
   \**************************/
-/*! no exports provided */ /*! all exports used */function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o=r(/*! ../src */9);const n=document.getElementById("file");n.addEventListener("change",(()=>{const e=n.files[0];Object(o.a)(e).then((e=>{document.getElementById("content").innerText=e.data;}))}),!1)},9:
+/*! no exports provided */ /*! all exports used */function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o=r(/*! ../src */9);const n=document.getElementById("file");n.addEventListener("change",(()=>{const e=n.files[0];Object(o.a)(e).then((e=>{document.getElementById("content").innerText=e.data}))}),!1)},9:
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
