@@ -79,12 +79,12 @@
     ],
     "scope_extensions": [
         {
-            "origin": "*.davserv.github.io/d-framework"
+            "origin": "*.unwork.pages.dev"
         }
     ],
     "web_apps": [
         {
-            "web_app_identity": "https://davserv.github.io/d-framework/"
+            "web_app_identity": "https://unwork.pages.dev/"
         }
     ],
     "prefer_related_applications": true,
