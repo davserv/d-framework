@@ -4,6 +4,7 @@
 * https://sagradbook.web.app/
 * https://hinarioccb.pages.dev/
 * https://pwag.pages.dev/
+* https://epubr.pages.dev/
 * https://d7map.pages.dev/
 * https://klink.pages.dev/
 * https://speechtext.pages.dev/
