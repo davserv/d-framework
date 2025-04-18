@@ -8,56 +8,23 @@ Essencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
 
 ----------
 
-# Bootstrap v5.3.3
+# cdn.tailwindcss
 
-Cdn Bootstrap.min.css
+Cdn tailwindcss.js.js
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/css/bootstrap.min.css" />
-```
-
-Cdn Bootstrap.bundle.min.js
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/bootstrap.bundle.min.js"></script>
-```
-
-Cdn Color-modes.js
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/color-modes.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@refs/heads/cdn.tailwindcss/tailwindcss.js"></script>
 ```
 --------
 
-# Bootstrap Icons
-
+cdn.tailwindcss.com 3.4.16
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/font/bootstrap-icons.min.css" />
+<script src="https://cdn.tailwindcss.com"></script>
 ```
+--------
 
-# Dxconfont
-
+tailwindcss
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@gh-pages/1.0.1/dxconfont/font.css" />
-```
-
-# Font Awesome Free 5.5.0
-
-```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@gh-pages/1.0.1/dxconfont/font.css" />
-```
-
-# Font Awesome Free 6.4.0
-
-```bash
-<link rel="stylesheet" href="https://fontawesomes.pages.dev/css/all.min.css" />
-```
-
-```bash
-<script src="https://fontawesomes.pages.dev/js/all.min.js"></script>
-```
-
-# Pace
-
-```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/pace.min.js"></script>
+https://tailwindcss.com/docs/installation/play-cdn
 ```
 --------
 
