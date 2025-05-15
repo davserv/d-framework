@@ -30,11 +30,14 @@
 * https://emarkdown.pages.dev/
 * https://kexel.pages.dev/
 * https://adappks.web.app/
+* https://midplay.pages.dev/
 * https://unwork.pages.dev/
 * https://dbase64.pages.dev/
 * https://dbase64.pages.dev/filedbase64/
 * https://dbase64.pages.dev/gdataurlbase/
 * https://dbase64.pages.dev/gdataurl/
+* https://doco.pages.dev/reader-xlsx-csv/
+* https://doco.pages.dev/xlsx-to-csv/
 * https://doco.pages.dev/extracpdftext/
 * https://doco.pages.dev/pdfpng/
 * https://doco.pages.dev/pdfjpgs/
@@ -61,6 +64,7 @@
 * https://gimg.pages.dev/icgtor/icogtor/
 * https://gimg.pages.dev/icgtor/icomai/
 * https://gimg.pages.dev/
+* https://dav7edit.pages.dev/imgurledit/
 * https://dav7edit.pages.dev/
 * https://dav7edit.pages.dev/svg/
 * https://dav7edit.pages.dev/plus/
@@ -111,6 +115,11 @@
 * https://qrscode.pages.dev/livescanner/
 * https://dav7calculadora.pages.dev/
 * https://davidsonbpe.github.io/dxconfont/
+* https://kexel-speedtest.static.hf.space/
+* https://kexel-design.static.hf.space/
+* https://kexel-convert.static.hf.space/
+* https://kexel-mid.static.hf.space/play-midi.html
+* https://kexel-mid.static.hf.space/mid-to-wav.html
 * https://devanalytics.vercel.app/
 * https://dav7keyboard.pages.dev/
 * https://dev7tuner.pages.dev/
@@ -138,6 +147,7 @@
 * https://notedmais.pages.dev/
 * https://analyticstar.pages.dev/
 * https://davidsonbpe.github.io/
+* https://dgme.pages.dev/gamemoria/
 * https://dgme.pages.dev/bobleplast/
 * https://dgme.pages.dev/parkingpuzzle/
 * https://dgme.pages.dev/dadonline/
