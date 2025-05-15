@@ -102,6 +102,9 @@
         "domlink": "https://unwork.pages.dev/"
     },
     {
+        "domlink": "https://midplay.pages.dev/"
+    },
+    {
         "domlink": "https://dbase64.pages.dev/"
     },
     {
@@ -112,6 +115,12 @@
     },
     {
         "domlink": "https://dbase64.pages.dev/gdataurl/"
+    },
+    {
+        "domlink": "https://doco.pages.dev/reader-xlsx-csv/"
+    },
+    {
+        "domlink": "https://doco.pages.dev/xlsx-to-csv/"
     },
     {
         "domlink": "https://doco.pages.dev/extracpdftext/"
@@ -199,6 +208,9 @@
     },
     {
         "domlink": "https://dav7edit.pages.dev/plus/"
+    },
+    {
+        "domlink": "https://dav7edit.pages.dev/imgurledit/"
     },
     {
         "domlink": "https://dav7abc.pages.dev/listgen/"
@@ -342,6 +354,21 @@
         "domlink": "https://davidsonbpe.github.io/dxconfont/"
     },
     {
+        "domlink": "https://kexel-speedtest.static.hf.space/"
+    },
+    {
+        "domlink": "https://kexel-design.static.hf.space/"
+    },
+    {
+        "domlink": "https://kexel-convert.static.hf.space/"
+    },
+    {
+        "domlink": "https://kexel-mid.static.hf.space/play-midi.html"
+    },
+    {
+        "domlink": "https://kexel-mid.static.hf.space/mid-to-wav.html"
+    },
+    {
         "domlink": "https://devanalytics.vercel.app/"
     },
     {
@@ -421,6 +448,9 @@
     },
     {
         "domlink": "https://davidsonbpe.github.io/"
+    },
+    {
+        "domlink": "https://dgme.pages.dev/gamemoria/"
     },
     {
         "domlink": "https://dgme.pages.dev/bobleplast/"
