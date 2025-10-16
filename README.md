@@ -8,28 +8,28 @@ Essencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
 
 ----------
 
-# Bootstrap v5.3.3
+# Bootstrap v5.3.8
 
 Cdn Bootstrap.min.css
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.8/css/bootstrap.min.css" />
 ```
 
 Cdn Bootstrap.bundle.min.js
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.8/js/bootstrap.bundle.min.js"></script>
 ```
 
 Cdn Color-modes.js
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/color-modes.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.8/js/color-modes.js"></script>
 ```
 --------
 
 # Bootstrap Icons
 
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/font/bootstrap-icons.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.8/font/bootstrap-icons.min.css" />
 ```
 
 # Dxconfont
@@ -47,7 +47,7 @@ Cdn Color-modes.js
 # Pace
 
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.3/js/pace.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/davserv/d-framework@cdn/v5.3.8/js/pace.min.js"></script>
 ```
 --------
 
