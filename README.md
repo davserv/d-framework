@@ -2,9 +2,8 @@
 
 # D-FRAMEWORK CDN
 
-D-framework é um CDN de código para executar Sites, aplicativos, Editor...
-
-Essencial Para criar uma aplicação em HTML5 CSS JS , simplesmente...
+D-FRAMEWORK É UM CDN DE CÓDIGO PARA EXECUTAR SITES, APLICATIVOS, EDITOR...
+ESSENCIAL PARA CRIAR UMA APLICAÇÃO EM HTML5 CSS JS , SIMPLESMENTE...
 
 ----------
 
@@ -77,8 +76,8 @@ Cdn Color-modes.js
 
 <br />
 
-<a href="https://emarkdown.pages.dev/?url=raw.githubusercontent.com%2Fdavserv%2Fd-framework%2Fcdn%2FREADME.md" align="right" alt="Visitor count">
-<img height="30" src="https://profile-counter.glitch.me/davserv/count.svg" /></a>
+<a href="https://dav7.pages.dev/" align="right" alt="Visitor count">
+<img height="30" src="https://raw.githubusercontent.com/davserv/d-framework/refs/heads/img-iso/count.svg" /></a>
 
 <br />
 
